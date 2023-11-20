@@ -53,19 +53,19 @@ body {
   appearance: none; 
   height: 15px;
   width: 15px;
-  background-color: #c026d3;
+  background-color: #d326a8;
   border-radius: 20%;
-  border: 2px solid #c026d3;
-  box-shadow: -407px 0 0 400px rgb(229, 116, 247);
+  border: 2px solid #d326a8;
+  box-shadow: -407px 0 0 400px rgb(238, 124, 223);
 }
 
 .range::-moz-range-thumb {
   height: 15px;
   width: 15px;
-  background-color: #c026d3;
+  background-color: #d326a8;
   border-radius: 20%;
-  border: 1px solid #c026d3;
-  box-shadow: -407px 0 0 400px rgb(229, 116, 247);
+  border: 1px solid #d326a8;
+  box-shadow: -407px 0 0 400px rgb(238, 124, 223);
 }
 
 .range::-webkit-slider-thumb:hover {

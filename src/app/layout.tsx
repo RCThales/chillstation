@@ -18,7 +18,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${geo.className}flex flex-col`}>
+      <body className={`${geo.className} flex flex-col`}>
         <div className='flex'>
           <NavBars/>
           {children}
