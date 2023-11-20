@@ -33,18 +33,18 @@ body {
   cursor: pointer;
   outline: none;
   overflow: hidden;
-  border-radius: 16px;
+
 }
 
 .range::-webkit-slider-runnable-track {
   height: 15px;
-  background: #ccc;
-  border-radius: 16px;
+  background: #ece7e7;
+
 }
 
 .range::-moz-range-track {
   height: 15px;
-  background: #ccc;
+  background: #ece7e7;
   border-radius: 16px;
 }
 
@@ -54,7 +54,7 @@ body {
   height: 15px;
   width: 15px;
   background-color: #c026d3;
-  border-radius: 50%;
+  border-radius: 20%;
   border: 2px solid #c026d3;
   box-shadow: -407px 0 0 400px rgb(229, 116, 247);
 }
@@ -63,7 +63,7 @@ body {
   height: 15px;
   width: 15px;
   background-color: #c026d3;
-  border-radius: 50%;
+  border-radius: 20%;
   border: 1px solid #c026d3;
   box-shadow: -407px 0 0 400px rgb(229, 116, 247);
 }
